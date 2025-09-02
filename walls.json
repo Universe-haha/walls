@@ -1,13 +1,6 @@
 {
   "walls": [
     {
-      "name": "test",
-      "url": "https://cdn.jsdelivr.net/gh/Universe-haha/walls/walls/2025-09-02_18-08-04_test.jpg",
-      "date": "2025-09-02T12:06:00.000Z",
-      "category": "Nature",
-      "filename": "2025-09-02_18-08-04_test.jpg"
-    },
-    {
       "name": "onlook",
       "filename": "2025-09-02_18-48-22_onlook.jpg",
       "date": "2025-09-02T13:18:22.403Z",
