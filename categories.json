@@ -9,6 +9,11 @@
       "name": "Amoled",
       "filename": "category_amoled.jpg",
       "image": "https://cdn.jsdelivr.net/gh/Universe-haha/walls/categories/category_amoled.jpg"
+    },
+    {
+      "name": "Black",
+      "filename": "category_black.jpg",
+      "image": "https://cdn.jsdelivr.net/gh/Universe-haha/walls/categories/category_black.jpg"
     }
   ]
 }
