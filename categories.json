@@ -14,6 +14,11 @@
       "name": "Black",
       "filename": "category_black.jpg",
       "image": "https://cdn.jsdelivr.net/gh/Universe-haha/walls/categories/category_black.jpg"
+    },
+    {
+      "name": "Games",
+      "filename": "category_games.jpg",
+      "image": "https://cdn.jsdelivr.net/gh/Universe-haha/walls/categories/category_games.jpg"
     }
   ]
 }
