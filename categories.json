@@ -1,3 +1,9 @@
 {
-  "categories": []
+  "categories": [
+    {
+      "name": "Abstract",
+      "filename": "category_abstract.jpg",
+      "image": "https://cdn.jsdelivr.net/gh/Universe-haha/walls/categories/category_abstract.jpg"
+    }
+  ]
 }
