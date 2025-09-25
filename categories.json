@@ -24,6 +24,11 @@
       "name": "Minimal",
       "filename": "category_minimal.jpg",
       "image": "https://cdn.jsdelivr.net/gh/Universe-haha/walls/categories/category_minimal.jpg"
+    },
+    {
+      "name": "Movies",
+      "filename": "category_movies.jpg",
+      "image": "https://cdn.jsdelivr.net/gh/Universe-haha/walls/categories/category_movies.jpg"
     }
   ]
 }
