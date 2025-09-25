@@ -34,6 +34,11 @@
       "name": "Nature",
       "filename": "category_nature.webp",
       "image": "https://cdn.jsdelivr.net/gh/Universe-haha/walls/categories/category_nature.webp"
+    },
+    {
+      "name": "Sports",
+      "filename": "category_sports.webp",
+      "image": "https://cdn.jsdelivr.net/gh/Universe-haha/walls/categories/category_sports.webp"
     }
   ]
 }
