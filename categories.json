@@ -24,6 +24,11 @@
       "name": "Minimal",
       "filename": "category_minimal.webp",
       "image": "https://cdn.jsdelivr.net/gh/Universe-haha/walls/categories/category_minimal.webp"
+    },
+    {
+      "name": "Movies",
+      "filename": "category_movies.webp",
+      "image": "https://cdn.jsdelivr.net/gh/Universe-haha/walls/categories/category_movies.webp"
     }
   ]
 }
