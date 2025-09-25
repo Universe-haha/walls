@@ -19,6 +19,11 @@
       "name": "Games",
       "filename": "category_games.webp",
       "image": "https://cdn.jsdelivr.net/gh/Universe-haha/walls/categories/category_games.webp"
+    },
+    {
+      "name": "Minimal",
+      "filename": "category_minimal.webp",
+      "image": "https://cdn.jsdelivr.net/gh/Universe-haha/walls/categories/category_minimal.webp"
     }
   ]
 }
