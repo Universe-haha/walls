@@ -29,6 +29,11 @@
       "name": "Movies",
       "filename": "category_movies.webp",
       "image": "https://cdn.jsdelivr.net/gh/Universe-haha/walls/categories/category_movies.webp"
+    },
+    {
+      "name": "Nature",
+      "filename": "category_nature.webp",
+      "image": "https://cdn.jsdelivr.net/gh/Universe-haha/walls/categories/category_nature.webp"
     }
   ]
 }
