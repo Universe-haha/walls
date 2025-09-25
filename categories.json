@@ -39,6 +39,11 @@
       "name": "Sports",
       "filename": "category_sports.jpg",
       "image": "https://cdn.jsdelivr.net/gh/Universe-haha/walls/categories/category_sports.jpg"
+    },
+    {
+      "name": "Stock",
+      "filename": "category_stock.jpg",
+      "image": "https://cdn.jsdelivr.net/gh/Universe-haha/walls/categories/category_stock.jpg"
     }
   ]
 }
