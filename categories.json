@@ -14,6 +14,11 @@
       "name": "Black",
       "filename": "category_black.webp",
       "image": "https://cdn.jsdelivr.net/gh/Universe-haha/walls/categories/category_black.webp"
+    },
+    {
+      "name": "Games",
+      "filename": "category_games.webp",
+      "image": "https://cdn.jsdelivr.net/gh/Universe-haha/walls/categories/category_games.webp"
     }
   ]
 }
