@@ -1423,6 +1423,14 @@
       "category": "Exclusive",
       "filename": "2024-12-27_21-36-18_capsule.jpg",
       "exclusive": true
+    },
+    {
+      "name": "Sun-2",
+      "filename": "2025-10-21_20-23-10_Sun2.jpg",
+      "date": "2025-10-21T14:53:10.678Z",
+      "category": "Minimal",
+      "exclusive": false,
+      "url": "https://cdn.jsdelivr.net/gh/Universe-haha/walls/walls/2025-10-21_20-23-10_Sun2.jpg"
     }
   ]
 }
